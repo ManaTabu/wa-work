@@ -163,7 +163,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":""
+                 "value":"https:\/\/mluconf.uni-halle.de\/b\/abh-yvg-z2z"
                 }],
          "type":"tilelayer",
          "visible":true,
