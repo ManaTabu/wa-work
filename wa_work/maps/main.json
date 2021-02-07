@@ -37,7 +37,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/mluconf.uni-halle.de\/b\/ste-e4k-2gm"
+                 "value":""
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -55,7 +55,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/mluconf.uni-halle.de\/b\/ste-9z0-kzj-wod"
+                 "value":""
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -145,7 +145,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/mluconf.uni-halle.de\/b\/dan-nwe-19w-hfn"
+                 "value":""
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -163,7 +163,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/mluconf.uni-halle.de\/b\/abh-yvg-z2z"
+                 "value":""
                 }],
          "type":"tilelayer",
          "visible":true,
